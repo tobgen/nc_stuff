@@ -9,10 +9,10 @@ Things related to Neocron
 | Tez         |      2      |         |         |         |
 | Tenzor      |      2      |         |         |         |
 | Tinyhorns   |      2      |         |         |         |
-| NaKoth      |      2      |         |         |         |
+| NaKoth      |      1      |         |         |         |
 | Martok      |      1      |         |         |         |
 | Aphex79     |      1      |         |         |         |
-| Frederic    |      1      |         |         |         |
+| Frederic    |      2      |         |         |         |
 | Collen      |      1      |         |         |         |
-| Frandson    |      1      |         |         |         |
-
+| Frandson    |      2      |         |         |         |
+| Ulx         |      1      |         |         |         |
