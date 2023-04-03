@@ -1,5 +1,5 @@
-# NC stuff
-Things related to Neocron
+# Spider Cave - Loot table
+Who gets What and When?
 
 
 
