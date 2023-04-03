@@ -9,10 +9,10 @@ Who gets What and When?
 | Tez         |      2      |         |         |         |
 | Tenzor      |      2      |         |         |         |
 | Tinyhorns   |      2      |         |         |         |
+| Frederic    |      1      |         |         |         |
+| Frandson    |      1      |         |         |         |
 | NaKoth      |      1      |         |         |         |
 | Martok      |      1      |         |         |         |
 | Aphex79     |      1      |         |         |         |
-| Frederic    |      2      |         |         |         |
 | Collen      |      1      |         |         |         |
-| Frandson    |      2      |         |         |         |
 | Ulx         |      1      |         |         |         |
