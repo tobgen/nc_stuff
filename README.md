@@ -6,13 +6,13 @@ Who gets What and When?
 | Player      | Attendance  | Key 2-B | Key 3-D | Key 4-B |  
 | ----------- | ----------- |---------|---------|---------|
 | Species     |      2      |         |         |         |
-| Tez         |      2      |         |         |         |
+| Tez         |      3      |         |         |         |
 | Tenzor      |      2      |         |         |         |
-| Tinyhorns   |      2      |         |         |         |
-| Frederic    |      1      |         |         |         |
+| Tinyhorns   |      3      |         |         |         |
+| Frederic    |      2      |         |         |         |
 | Frandson    |      1      |         |         |         |
-| NaKoth      |      1      |         |         |         |
-| Martok      |      1      |         |         |         |
-| Aphex79     |      1      |         |         |         |
+| NaKoth      |      2      |         |         |         |
+| Martok      |      2      |         |         |         |
+| Aphex79     |      2      |         |         |         |
 | Collen      |      1      |         |         |         |
 | Ulx         |      1      |         |         |         |
