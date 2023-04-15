@@ -19,3 +19,4 @@ Who gets What and When?
 | Girr        |      1      |         |         |         |
 | Barbatos    |      1      |         |         |         |
 | Hootie      |      1      |         |         |         |
+| Sheldor     |      1      |         |         |         |
